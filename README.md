@@ -34,8 +34,27 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Screenshot
-
-
-
 ## Walkthrough Video
+- Create Schema and Seed data
+
+![](./assets/schema-seed.webm)
+
+- Demonstariting APi get routes
+
+![](./assets/api-get-routes.webm)
+
+- Demonstrating APi categories post and put routes
+
+![](./assets/api-post-put-routes.webm)
+
+- Demonstrating APi products post and put routes
+
+![](./assets/products-post-put.webm)
+
+- Demonstrating APi tags post and put routes
+
+![](./assets/api-tags-post-put.webm)
+
+- Demonstrating APi delete routes
+
+![](./assets/delte-api-routes.webm)
