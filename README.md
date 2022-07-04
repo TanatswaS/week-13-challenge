@@ -37,24 +37,24 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Walkthrough Video
 - Create Schema and Seed data
 
-![](./assets/schema-seed.gif)
+![](https://youtu.be/48Y7rwPt-yo)
 
 - Demonstariting APi get routes
 
-![](./assets/api-get-routes.gif)
+![](https://youtu.be/dxSFf6thIEw)
 
 - Demonstrating APi categories post and put routes
 
-![](./assets/api-post-put-routes.gif)
+![](https://youtu.be/yXilh1B16rE)
 
 - Demonstrating APi products post and put routes
 
-![](./assets/products-post-put.gif)
+![](https://youtu.be/-nszOfkciG4)
 
 - Demonstrating APi tags post and put routes
 
-![](./assets/api-tags-post-put.gif)
+ ![](https://youtu.be/PSmGXrlOVrs)
 
 - Demonstrating APi delete routes
 
-![](./assets/delte-api-routes.gif)
+ ![](https://youtu.be/vYJb9oHJKhc)
