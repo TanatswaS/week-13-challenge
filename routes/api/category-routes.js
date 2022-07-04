@@ -1,6 +1,8 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
+
 // The `/api/categories` endpoint
+
 router.get('/', (req, res) => {
   // find all categories
   // be sure to include its associated Products
@@ -44,7 +46,7 @@ router.put('/:id', (req, res) => {
       id: req.params.id
     }
   }).then(updatedCategory => res.json(updatedCategory))
-
+  
   .catch(err => res.status(400).json(err))
 });
 
